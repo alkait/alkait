@@ -15,7 +15,7 @@ Software, tools, experiments, and the occasional questionable idea. I freelance 
 <a href="https://apps.apple.com/ae/app/fotoslash/id6756789131"><img src="assets/apps/fotoslash.png" width="72" alt="FotoSlash" title="FotoSlash"></a>&nbsp;&nbsp;
 <a href="https://apps.apple.com/ae/app/id591598742"><img src="assets/apps/kha6.png" width="72" alt="خط" title="خط"></a>
 
-- **[Yesterdo](https://apps.apple.com/ae/app/yesterdo/id6821577473)**: Be present. Make progress. A calm, one-day-at-a-time todo list, synced via iCloud. Free forever and [open source](https://github.com/alkait/Yesterdo).
+- **[Yesterdo](https://apps.apple.com/ae/app/yesterdo/id6821577473)**: Be present. Make progress. A calm, one-day-at-a-time todo list, synced via iCloud. Free forever and open source.
 - **[Tuckmo](https://apps.apple.com/ae/app/tuckmo/id6833324502)**: Tuck it away. Find it again. Save links, posts and media from any app, synced via iCloud.
 - **[FotoSlash](https://apps.apple.com/ae/app/fotoslash/id6756789131)**: Clean up your photo library with a swipe and free up storage.
 - **[خط](https://apps.apple.com/ae/app/id591598742)**: Write on your photos in beautiful Arabic calligraphy.
